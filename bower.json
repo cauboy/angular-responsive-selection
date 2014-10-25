@@ -1,0 +1,22 @@
+{
+  "name": "angular-responsive-selection",
+  "version": "0.0.0",
+  "authors": [
+    "Clemens Bachmair <clemens.bachmair@gmail.com>"
+  ],
+  "description": "A simple responsive selection that is easy designable",
+  "keywords": [
+    "angularjs",
+    "selection",
+    "dropdown",
+    "responsive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
